@@ -1,5 +1,9 @@
 # Byte-compiled / optimized / DLL files
+data/esg.db
+data/raw/
 __pycache__/
+*.pyc
+.pytest_cache/
 *.py[codz]
 *$py.class
 
